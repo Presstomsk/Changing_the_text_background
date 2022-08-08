@@ -11,3 +11,5 @@
 введенных пользователем значений R, G и B. Этим цветом залить
 фон тега span.
 
+ ![1](https://github.com/Presstomsk/Changing_the_text_background/blob/main/RGB.jpg)
+
